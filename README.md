@@ -14,3 +14,9 @@ This project is a machine learning model designed to detect fraudulent bank tran
 1. Clone the repository:
    ```bash
    git clone https://github.com/Dogukanada74/bank-fraud-detection.git
+
+## Dataset
+
+I couldn't upload the CSV file I used because it was too large. Instead, I shared the link to the dataset:
+
+[Download the dataset from Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023)
